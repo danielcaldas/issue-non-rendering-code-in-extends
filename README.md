@@ -9,9 +9,6 @@ So `counter/index` *extends* `counter/count.twig`.
 
 ### Environment
 
-Node version:
-8.9.0
-Operating System:
-MacOs High Sierra v10.13.6
-melody version:
-v1.0.0
+- **Node version**: 8.9.0
+- **Operating System**: MacOs High Sierra v10.13.6
+- **melody version**: v1.0.0
